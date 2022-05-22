@@ -8,5 +8,9 @@ Dashboard Link: https://sales-time-series.herokuapp.com/
 
 ![alt text](https://github.com/vviveks/sales-time-series/blob/main/images/dash1.png)
 
+![alt text](https://github.com/vviveks/sales-time-series/blob/main/images/dash4.png)
+
 ![alt text](https://github.com/vviveks/sales-time-series/blob/main/images/dash2.png)
+
+![alt text](https://github.com/vviveks/sales-time-series/blob/main/images/dash3.png)
 
